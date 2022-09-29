@@ -3,6 +3,7 @@
 ## Requirements
 - vim-plug https://github.com/junegunn/vim-plug
 - coc.nvim https://github.com/neoclide/coc.nvim
+- fzf for https://github.com/junegunn/fzf
 
 ## Installation
 - Rename coc-settings.json.example to coc-settings.json
