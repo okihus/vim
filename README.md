@@ -6,6 +6,7 @@
 - fzf for https://github.com/junegunn/fzf
 
 ## Installation
+- Clone this repository to ~/.vim directory in your home
 - Rename coc-settings.json.example to coc-settings.json
 - Replace path in coc-settings.json
 - Move/Remove your .vimrc from your home directory
