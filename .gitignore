@@ -1,0 +1,7 @@
+autoload
+backup
+swap
+undo
+plugged
+.netrwhist
+coc-settings.json
