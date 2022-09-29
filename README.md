@@ -1,5 +1,7 @@
 # Vim configurations
 
+![image](https://user-images.githubusercontent.com/9085023/193019571-ac567732-1510-4ab6-a1bd-5d9accc882e9.png)
+
 ## Requirements
 - vim-plug https://github.com/junegunn/vim-plug
 - coc.nvim https://github.com/neoclide/coc.nvim
