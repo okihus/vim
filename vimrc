@@ -23,8 +23,8 @@ Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-surround'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'vim-vdebug/vdebug'
 Plug 'TysonAndre/php-vim-syntax'
+Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
 
