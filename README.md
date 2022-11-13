@@ -1,6 +1,7 @@
 # Vim configurations
 
-![image](https://user-images.githubusercontent.com/9085023/193019571-ac567732-1510-4ab6-a1bd-5d9accc882e9.png)
+<img width="1133" alt="image" src="https://user-images.githubusercontent.com/9085023/201531432-26d78d33-58ae-414e-a8cf-72d192f426a6.png">
+
 
 ## Requirements
 - vim-plug https://github.com/junegunn/vim-plug
